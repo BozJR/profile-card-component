@@ -1,11 +1,10 @@
-# Frontend Mentor - Profile card component solution
+# Profile card component
 
-This is My solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is My solution to creating a basic Profile card. 
 
 
 ## Table of contents
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -14,11 +13,9 @@ This is My solution to the [Profile card component challenge on Frontend Mentor]
   - [Author](#author)
 
 
-## Overview
-
 ### The challenge
 
-- Build out the project to the designs provided
+- Build a simple profile card that can be used for social media (design only)
 
 
 ### Screenshot
@@ -40,5 +37,5 @@ This is My solution to the [Profile card component challenge on Frontend Mentor]
 
 ## Author
 
-- Frontend Mentor - [@BozJR](https://www.frontendmentor.io/profile/BozJR)
+- GitHub Profile - https://github.com/BozJR?tab=repositories
 
